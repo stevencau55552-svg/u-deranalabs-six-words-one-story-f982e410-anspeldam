@@ -11,11 +11,11 @@ deterministic: it always writes the same six-word story.
 
 ## The story
 
-> She waited fifty years. He returned.
+> She waited fifty years. He knocked.
 
-Six words, 36 characters. A lifetime of waiting, and the turn: after half
-a century, he came back. Why he left, why now, and what happens next are
-left for the reader to fill in.
+Six words, 33 characters. A lifetime of waiting, and the turn: after half
+a century, he is at the door. Why he left, why now, and whether she opens
+the door are left for the reader to fill in.
 
 ## Run it
 
