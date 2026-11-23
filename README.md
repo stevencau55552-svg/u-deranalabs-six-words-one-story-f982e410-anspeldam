@@ -13,7 +13,7 @@ deterministic: it always writes the same six-word story.
 
 > She waited fifty years. He knocked.
 
-Six words, 33 characters. A lifetime of waiting, and the turn: after half
+Six words, 35 characters. A lifetime of waiting, and the turn: after half
 a century, he is at the door. Why he left, why now, and whether she opens
 the door are left for the reader to fill in.
 

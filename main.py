@@ -13,7 +13,7 @@ Deterministic, standard library only, no network, no secrets.
 
 from pathlib import Path
 
-# The story: exactly six words, 33 characters.
+# The story: exactly six words, 35 characters.
 STORY = "She waited fifty years. He knocked."
 
 OUTPUT_PATH = Path("/output/entry.txt")
